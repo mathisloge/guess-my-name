@@ -136,9 +136,11 @@ function openGoogleMaps() {
                 H = Wie viele Geschenke liegen unter dem Weihnachtsbaum, wenn jedes der vier Kinder
                 zwei Päckchen bekommt?
               </li>
-              <li></li>
             </ul>
-            <p style="margin-top: 15px"><strong>Die Koordinate ist: A B . C D E F G H</strong></p>
+            <p style="margin-top: 15px">
+              Die Koordinate ist: <br />
+              <code><strong>A B . C D E F G H</strong></code>
+            </p>
             <p style="font-size: 14px; color: #666; margin-top: 5px">
               (Format: XX.XXXXXX ohne Leerzeichen)
             </p>
@@ -392,15 +394,23 @@ function openGoogleMaps() {
             </h4>
             <div class="poem-box">
               <p class="poem-line">Im warmen Schein der Weihnachtszeit,</p>
-              <p class="poem-line">da steht ein Plan, ganz still bereit.</p>
-              <p class="poem-line">Öffne Google Maps, so klar und fein,</p>
-              <p class="poem-line">dort soll dein erster Schritt nun sein.</p>
-              <p class="poem-line" style="margin-top: 10px">Dann tippe leis' und ohne Hast,</p>
-              <p class="poem-line">die Zahlen ein, die führen fast:</p>
-              <p class="poem-line">{{ MATH_SOLUTION }}, -97.8280543, ganz genau,</p>
-              <p class="poem-line">und schau, wohin die Karte zeigt dir lau.</p>
-              <p class="poem-line" style="margin-top: 10px">Betrachte still den Ortsnamen sacht,</p>
-              <p class="poem-line">dann weißt du, wer dein Wichtel lacht.</p>
+              <p class="poem-line">da steht ein Plan bereit:</p>
+              <p class="poem-line">Öffne Maps, so klar und fein,</p>
+              <p class="poem-line">dort soll dein ersten Schritte sein.</p>
+              <p class="poem-line" style="margin-top: 10px">Dann tippe leis' und ungeniert</p>
+              <p class="poem-line">die Zahl, die dich zum Ziel noch führt:</p>
+              <p class="poem-line">{{ MATH_SOLUTION }} - so beginnt die Spur,</p>
+              <p class="poem-line">-97.8280543 vollendet die Natur.</p>
+              <p class="poem-line" style="margin-top: 10px">Folge dann dem stillen Pfad,</p>
+              <p class="poem-line">Betrachte, wohin die Reise geht,</p>
+              <p class="poem-line">welcher Ort dort vor dir steht.</p>
+              <p class="poem-line" style="margin-top: 10px">
+                Und wenn der Name dich anlacht sacht,
+              </p>
+              <p class="poem-line">dann hast du's endlich vollbracht:</p>
+              <p class="poem-line">dann hast du's endlich vollbracht:</p>
+              <p class="poem-line">Der Ort verrät's - ganz ohne Pflicht -</p>
+              <p class="poem-line">wer heute dein geheimer Wichtel ist. 🎁</p>
             </div>
           </el-card>
 
@@ -454,7 +464,7 @@ function openGoogleMaps() {
 }
 
 .content-section {
-  padding: 30px;
+  padding: 0px;
   min-height: 400px;
 }
 
@@ -522,11 +532,6 @@ function openGoogleMaps() {
   color: #155724;
   font-family: 'Courier New', monospace;
   margin: 10px 0;
-}
-
-.math-list {
-  margin-left: 20px;
-  margin-top: 10px;
 }
 
 .math-list li {
