@@ -408,7 +408,6 @@ function openGoogleMaps() {
                 Und wenn der Name dich anlacht sacht,
               </p>
               <p class="poem-line">dann hast du's endlich vollbracht:</p>
-              <p class="poem-line">dann hast du's endlich vollbracht:</p>
               <p class="poem-line">Der Ort verrät's - ganz ohne Pflicht -</p>
               <p class="poem-line">wer heute dein geheimer Wichtel ist. 🎁</p>
             </div>
