@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="start-card.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   width="210mm"
+   height="297mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.74667982"
+     inkscape:cx="396.42159"
+     inkscape:cy="636.81914"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32"
+     inkscape:document-units="mm" />
+  <!-- DIN A4 Brief Format: 210mm x 297mm -->
+  <!-- Hintergrund mit Schnee-Gradient -->
+  <defs
+     id="defs3">
+    <linearGradient
+       id="snowGradient"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="249.73985"
+       gradientTransform="scale(0.84087497,1.1892375)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#1a3a52;stop-opacity:1"
+         id="stop1" />
+      <stop
+         offset="100%"
+         style="stop-color:#2d5a7b;stop-opacity:1"
+         id="stop2" />
+    </linearGradient>
+    <filter
+       id="glow"
+       x="-0.96"
+       y="-0.96"
+       width="2.92"
+       height="2.92">
+      <feGaussianBlur
+         stdDeviation="2"
+         result="coloredBlur"
+         id="feGaussianBlur2" />
+      <feMerge
+         id="feMerge3">
+        <feMergeNode
+           in="coloredBlur"
+           id="feMergeNode2" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode3" />
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Hintergrund -->
+  <rect
+     width="210"
+     height="297"
+     fill="url(#snowGradient)"
+     id="rect3"
+     x="0"
+     y="0"
+     style="fill:url(#snowGradient)" />
+  <!-- Schneeflocken -->
+  <circle
+     cx="20"
+     cy="30"
+     r="1.5"
+     fill="#ffffff"
+     opacity="0.8"
+     id="circle3" />
+  <circle
+     cx="45"
+     cy="50"
+     r="1"
+     fill="#ffffff"
+     opacity="0.6"
+     id="circle4" />
+  <circle
+     cx="80"
+     cy="25"
+     r="1.2"
+     fill="#ffffff"
+     opacity="0.7"
+     id="circle5" />
+  <circle
+     cx="120"
+     cy="45"
+     r="1"
+     fill="#ffffff"
+     opacity="0.5"
+     id="circle6" />
+  <circle
+     cx="160"
+     cy="35"
+     r="1.3"
+     fill="#ffffff"
+     opacity="0.8"
+     id="circle7" />
+  <circle
+     cx="190"
+     cy="55"
+     r="1"
+     fill="#ffffff"
+     opacity="0.6"
+     id="circle8" />
+  <circle
+     cx="35"
+     cy="260"
+     r="1.2"
+     fill="#ffffff"
+     opacity="0.7"
+     id="circle9" />
+  <circle
+     cx="70"
+     cy="270"
+     r="1"
+     fill="#ffffff"
+     opacity="0.5"
+     id="circle10" />
+  <circle
+     cx="150"
+     cy="265"
+     r="1.3"
+     fill="#ffffff"
+     opacity="0.8"
+     id="circle11" />
+  <circle
+     cx="180"
+     cy="275"
+     r="1.1"
+     fill="#ffffff"
+     opacity="0.6"
+     id="circle12" />
+  <!-- Weihnachtsbaum -->
+  <polygon
+     points="85,140 65,170 145,170 125,140 135,140 115,110 125,110 105,80 85,110 95,110 75,140 "
+     fill="#2d5a3d"
+     id="polygon12" />
+  <polygon
+     points="95,130 80,155 130,155 115,130 125,130 110,105 120,105 105,80 90,105 100,105 85,130 "
+     fill="#3d7a4d"
+     id="polygon13" />
+  <rect
+     x="95"
+     y="170"
+     width="20"
+     height="15"
+     fill="#654321"
+     id="rect13" />
+  <!-- Weihnachtskugeln am Baum -->
+  <circle
+     cx="95"
+     cy="120"
+     r="3"
+     fill="#d4af37"
+     filter="url(#glow)"
+     id="circle13" />
+  <circle
+     cx="115"
+     cy="125"
+     r="3"
+     fill="#c41e3a"
+     filter="url(#glow)"
+     id="circle14" />
+  <circle
+     cx="105"
+     cy="145"
+     r="3"
+     fill="#0f52ba"
+     filter="url(#glow)"
+     id="circle15" />
+  <circle
+     cx="85"
+     cy="155"
+     r="2.5"
+     fill="#d4af37"
+     filter="url(#glow)"
+     id="circle16" />
+  <circle
+     cx="120"
+     cy="150"
+     r="2.5"
+     fill="#c41e3a"
+     filter="url(#glow)"
+     id="circle17" />
+  <!-- Stern auf dem Baum -->
+  <polygon
+     points="110,88 105,84 100,88 102,81 96,77 103,77 105,70 107,77 114,77 108,81 "
+     fill="#ffd700"
+     filter="url(#glow)"
+     id="polygon17" />
+  <!-- Geschenke unter dem Baum -->
+  <rect
+     x="70"
+     y="185"
+     width="15"
+     height="12"
+     fill="#c41e3a"
+     id="rect17" />
+  <rect
+     x="71"
+     y="188"
+     width="13"
+     height="2"
+     fill="#d4af37"
+     id="rect18" />
+  <rect
+     x="76"
+     y="185"
+     width="2"
+     height="12"
+     fill="#d4af37"
+     id="rect19" />
+  <rect
+     x="130"
+     y="185"
+     width="18"
+     height="14"
+     fill="#0f52ba"
+     id="rect20" />
+  <rect
+     x="131"
+     y="190"
+     width="16"
+     height="2"
+     fill="#ffd700"
+     id="rect21" />
+  <rect
+     x="138"
+     y="185"
+     width="2"
+     height="14"
+     fill="#ffd700"
+     id="rect22" />
+  <!-- Rahmen für den Code -->
+  <rect
+     x="40"
+     y="220"
+     width="130"
+     height="50"
+     rx="8"
+     fill="#ffffff"
+     opacity="0.95"
+     id="rect23" />
+  <rect
+     x="43"
+     y="223"
+     width="124"
+     height="44"
+     rx="6"
+     fill="none"
+     stroke="#c41e3a"
+     stroke-width="2"
+     id="rect24" />
+  <!-- Weihnachtliche Dekoration um den Rahmen -->
+  <circle
+     cx="50"
+     cy="220"
+     r="4"
+     fill="#2d5a3d"
+     id="circle24" />
+  <circle
+     cx="51"
+     cy="219"
+     r="1.5"
+     fill="#c41e3a"
+     id="circle25" />
+  <circle
+     cx="160"
+     cy="220"
+     r="4"
+     fill="#2d5a3d"
+     id="circle26" />
+  <circle
+     cx="161"
+     cy="219"
+     r="1.5"
+     fill="#d4af37"
+     id="circle27" />
+  <circle
+     cx="50"
+     cy="270"
+     r="4"
+     fill="#2d5a3d"
+     id="circle28" />
+  <circle
+     cx="51"
+     cy="271"
+     r="1.5"
+     fill="#0f52ba"
+     id="circle29" />
+  <circle
+     cx="160"
+     cy="270"
+     r="4"
+     fill="#2d5a3d"
+     id="circle30" />
+  <circle
+     cx="161"
+     cy="271"
+     r="1.5"
+     fill="#c41e3a"
+     id="circle31" />
+  <!-- Text: "Dein Code" -->
+  <text
+     x="105"
+     y="237"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#2d5a7b"
+     text-anchor="middle"
+     font-weight="bold"
+     id="text31">Dein Weihnachtscode</text>
+  <!-- Der 6-stellige Code -->
+  <text
+     x="105"
+     y="257"
+     font-family="'Courier New', monospace"
+     font-size="20px"
+     fill="#1a3a52"
+     text-anchor="middle"
+     font-weight="bold"
+     letter-spacing="4"
+     id="text32"
+     style="font-size:16px">XMAS2025</text>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;line-height:1;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffcc00"
+     x="104.97656"
+     y="30.468212"
+     id="text33"><tspan
+       sodipodi:role="line"
+       id="tspan33"
+       x="104.97656"
+       y="30.468212">Gehe auf </tspan><tspan
+       sodipodi:role="line"
+       x="104.97656"
+       y="46.468212"
+       id="tspan34">GUESS-MY-NAME.de</tspan></text>
+</svg>
